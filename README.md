@@ -3,10 +3,10 @@
 ###
 
 
-<p align="center">
-Grad student in <B>computational chemistry</B> at the <B>University of Florida</B>, specializing in molecular simulations and analysis.<br><br>
-Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
-Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
+<p style="font-family: 'Courier New', Courier, monospace; text-align: left;">
+🔬 Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
+💻 Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
+🎓 Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
 </p>
 
 
