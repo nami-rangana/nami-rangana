@@ -18,7 +18,7 @@ Let's collaborate on projects at the intersection of chemistry, physics, and com
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" alt="Placeholder Image" style="width: 100%;">
+    <img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" alt="Placeholder Image" style="width: 50%;">
   </div>
 </div>
 
