@@ -10,17 +10,18 @@ Let's collaborate on projects at the intersection of chemistry, physics, and com
 </p>
 
 <div style="display: flex;">
-  <div style="flex: 7;">
+  <div style="width: 70%;">
     <p style="font-family: 'Courier New', Courier, monospace; text-align: left;">
-      Grad student in computational chemistry at the University of Florida,<br> specializing in molecular simulations and analysis.<br><br>
-      Proficient in Python, Bash, Java, and HTML for automation, data analysis,<br> and web development.<br><br>
-      Let's collaborate on projects at the intersection of chemistry, physics,<br> and computer science!
+      Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.  
+      Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.  
+      Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
     </p>
   </div>
-  <div style="flex: 3;">
+  <div style="width: 30%;">
     <img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" alt="Placeholder Image" style="width: 100%;">
   </div>
 </div>
+
 
 
 
