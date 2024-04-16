@@ -1,40 +1,40 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">🔬 Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>💻 Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>🎓 Let's collaborate on projects at the intersection of chemistry, physics, and computer science!</p>
+
+<p align="left">
+<span style="font-size: 1.5em; margin-right: 0.5em;">🔬</span> Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
+<span style="font-size: 1.5em; margin-right: 0.5em;">💻</span> Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
+<span style="font-size: 1.5em; margin-right: 0.5em;">🎓</span> Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
@@ -45,18 +45,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nami-rangana/nami-rangana/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/nami-rangana/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
