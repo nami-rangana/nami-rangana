@@ -9,7 +9,7 @@ Proficient in Python, Bash, Java, and HTML for automation, data analysis, and we
 Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
 </p>
 
-<div align="center">
+<div align="left">
   <p style="font-family: 'Courier New', Courier, monospace; text-align: left;">
       Grad student in computational chemistry at the University of Florida,<br> specializing in molecular simulations and analysis.<br><br>  
       Proficient in Python, Bash, Java, and HTML for automation, data analysis,<br> and web development.<br><br>  
