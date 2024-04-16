@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-<span style="font-size: 2.0em; margin-right: 0.5em;">🔬</span> Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
-<span style="font-size: 2.0em; margin-right: 0.5em;">💻</span> Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
-<span style="font-size: 2.0em; margin-right: 0.5em;">🎓</span> Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
+<span style="font-size: 5.0em; margin-right: 0.5em;">🔬</span> Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
+<span style="font-size: 5.0em; margin-right: 0.5em;">💻</span> Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
+<span style="font-size: 5.0em; margin-right: 0.5em;">🎓</span> Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
 </p>
 
 ###
