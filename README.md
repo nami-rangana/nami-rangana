@@ -3,28 +3,10 @@
 ###
 
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 40px; height: 40px; border: none;"><img src="https://getdrawings.com/free-icon/chemistry-icon-png-54.png" width="40" height="40"></td>
-    <td style="border: none;">Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.</td>
-  </tr>
-  <tr>
-    <td style="width: 40px; height: 40px; border: none;"><img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" width="40" height="40"></td>
-    <td style="border: none;">Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.</td>
-  </tr>
-  <tr>
-    <td style="width: 40px; height: 40px; border: none;"><img src="https://github.com/nami-rangana/nami-rangana/assets/112815658/3d90cda0-1f49-4538-bb5b-a0f2d0ca21b4" width="20" height="20"></td>
-    <td style="border: none;">Let's collaborate on projects at the intersection of chemistry, physics, and computer science!</td>
-  </tr>
-</table>
-
-
-
-
-<p align="left">
-:microscope:&nbsp;&nbsp;Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
-:computer:&nbsp;&nbsp;Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
-:mortar_board:&nbsp;&nbsp;Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
+<p align="center">
+Grad student in <B>computational chemistry</B> at the <B>University of Florida</B>, specializing in molecular simulations and analysis.<br><br>
+Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
+Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
 </p>
 
 
