@@ -2,30 +2,11 @@
 
 ###
 
-<style>
-  .no-border {
-    border-collapse: collapse;
-  }
-  .no-border td, .no-border th {
-    border: none;
-  }
-</style>
 
-<table class="no-border">
-  <tr>
-    <td style="width: 40px; height: 40px;"><img src="https://getdrawings.com/free-icon/chemistry-icon-png-54.png" width="40" height="40"></td>
-    <td>Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.</td>
-  </tr>
-  <tr>
-    <td style="width: 40px; height: 40px;"><img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" width="40" height="40"></td>
-    <td>Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.</td>
-  </tr>
-  <tr>
-    <td style="width: 40px; height: 40px;"><img src="https://github.com/nami-rangana/nami-rangana/assets/112815658/3d90cda0-1f49-4538-bb5b-a0f2d0ca21b4" width="20" height="20"></td>
-    <td>Let's collaborate on projects at the intersection of chemistry, physics, and computer science!</td>
-  </tr>
-</table>
-
+| <img src="https://getdrawings.com/free-icon/chemistry-icon-png-54.png" width="40" height="40"> | Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis. |
+| --- | --- |
+| <img src="https://images.squarespace-cdn.com/content/v1/63335784d07de0179faf04d6/b64bc9e8-f272-4a30-9d51-294d59d169da/Update+Plugins.png" width="40" height="40"> | Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development. |
+| <img src="https://github.com/nami-rangana/nami-rangana/assets/112815658/3d90cda0-1f49-4538-bb5b-a0f2d0ca21b4" width="20" height="20"> | Let's collaborate on projects at the intersection of chemistry, physics, and computer science! |
 
 
 
