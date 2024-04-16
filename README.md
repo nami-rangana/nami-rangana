@@ -3,8 +3,7 @@
 ###
 
 <p align="left">
-<img src="![image](https://github.com/nami-rangana/nami-rangana/assets/112815658/9b1d4aa3-541e-4b21-a781-1a5ea9508e08)
-" width="20" height="20">&nbsp;&nbsp;Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
+<img src="https://getdrawings.com/free-icon/chemistry-icon-png-54.png" width="20" height="20">&nbsp;&nbsp;Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br><br>
 <img src="![image](https://github.com/nami-rangana/nami-rangana/assets/112815658/f980d479-bfda-45db-93cf-940725506877)
 " width="20" height="20">&nbsp;&nbsp;Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br><br>
 <img src="![image](https://github.com/nami-rangana/nami-rangana/assets/112815658/3d90cda0-1f49-4538-bb5b-a0f2d0ca21b4)
