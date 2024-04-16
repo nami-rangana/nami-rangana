@@ -12,9 +12,9 @@ Let's collaborate on projects at the intersection of chemistry, physics, and com
 <div style="display: flex;">
   <div style="flex: 3;">
     <p style="font-family: 'Courier New', Courier, monospace; text-align: left;">
-      Grad student in computational chemistry at the University of Florida, specializing in molecular simulations and analysis.<br>
-      Proficient in Python, Bash, Java, and HTML for automation, data analysis, and web development.<br>
-      Let's collaborate on projects at the intersection of chemistry, physics, and computer science!
+      Grad student in computational chemistry at the University of Florida,<br> specializing in molecular simulations and analysis.<br><br>
+      Proficient in Python, Bash, Java, and HTML for automation, data analysis,<br> and web development.<br>
+      Let's collaborate on projects at the intersection of chemistry, physics,<br> and computer science!
     </p>
   </div>
   <div style="flex: 1;">
