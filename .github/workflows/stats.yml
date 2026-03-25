@@ -33,5 +33,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add languages.svg
           git commit -m "Auto-update language stats" || exit 0
-          # Push using your authenticated token
-          git push https://x-access-token:${{ secrets.STATS_PAT }}@github.com/nami-rangana/nami-rangana.git HEAD:main
+          git push origin HEAD:main
