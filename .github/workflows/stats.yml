@@ -2,12 +2,8 @@ name: Update Language Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
-
-# This explicitly grants the bot permission to push the SVG to this repo
-permissions:
-  contents: write
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.STATS_PAT }} # Uses your token to checkout
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -35,4 +33,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add languages.svg
           git commit -m "Auto-update language stats" || exit 0
-          git push
+          # Push using your authenticated token
+          git push https://x-access-token:${{ secrets.STATS_PAT }}@github.com/nami-rangana/nami-rangana.git HEAD:main
