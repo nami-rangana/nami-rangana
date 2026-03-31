@@ -5,23 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# FIX 1: Explicitly grant the workflow write permissions so the bot can push the SVG
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # FIX 2: Use the default GITHUB_TOKEN for checkout (no PAT needed here)
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.STATS_PAT }} # Uses your token to checkout
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Install dependencies
         run: pip install requests
 
+      # FIX 3: Keep your PAT here. The Python script uses it to read private repos.
       - name: Run Stats Generator
         env:
           GH_TOKEN: ${{ secrets.STATS_PAT }}
