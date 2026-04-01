@@ -14,14 +14,12 @@
   </a>
 </div>
 
-
-
 ## About Me
 
 I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializing in high-performance computing (HPC), molecular dynamics simulations, and AI-driven structural biology. My work bridges the gap between complex computational physics and scalable, hardware-accelerated software engineering.
 
 ---
-- 🏆 **Recent Highlights:** Recipient of the <a href="https://ai.ufl.edu/teaching-with-ai/for-uf-faculty/ai-faculty-awards/biography/thenahandi-namindu-rangana-de-silva.html">2025 HiPerGator Early Career</a> & <a href="https://ai.ufl.edu/teaching-with-ai/for-uf-faculty/ai-faculty-awards/#:~:text=Perez%20Lab%20Gators%20Team">Pioneering Team Awards</a>, Global Winning team <a href="https://github.com/PDNALab">**(PDNALab)**</a>   of the BioML Challenge <a href="https://www.biomlsociety.org/challenge#:~:text=to%20the%20designs.-,%E2%80%94,and%20Furman%20Lab%20(11%25).">(Bits to Binders 2024-2025)</a>.
+- 🏆 **Recent Highlights:** Recipient of the <a href="https://ai.ufl.edu/teaching-with-ai/for-uf-faculty/ai-faculty-awards/biography/thenahandi-namindu-rangana-de-silva.html">2025 HiPerGator Early Career</a> & <a href="https://ai.ufl.edu/teaching-with-ai/for-uf-faculty/ai-faculty-awards/#:~:text=Perez%20Lab%20Gators%20Team">Pioneering Team Awards</a>, Global Winning team <a href="https://github.com/PDNALab">**(PDNALab)**</a>    of the BioML Challenge <a href="https://www.biomlsociety.org/challenge#:~:text=to%20the%20designs.-,%E2%80%94,and%20Furman%20Lab%20(11%25).">(Bits to Binders 2024-2025)</a>.
 
 - 🤝 **Let's Collaborate:** Always open to projects at the intersection of AI, statistical thermodynamics, and molecular modeling.
 ---
@@ -37,11 +35,7 @@ I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
 </div>
 
 <br>
@@ -76,6 +70,8 @@ I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializi
         <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=0078D6" />
         <br>
         <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=FFA500" />
+        <br>
+        <img src="https://img.shields.io/badge/SLURM-000000?style=flat-square&logoColor=FFFFFF" />
       </p>
     </td>
     <td align="center" width="25%">
@@ -91,6 +87,7 @@ I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializi
   </tr>
 </table>
 
+</div>
 ---
 
 ## Selected Publications
