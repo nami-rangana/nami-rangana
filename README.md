@@ -40,7 +40,7 @@ I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializi
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%">
       <h3>Machine Learning</h3>
@@ -87,7 +87,6 @@ I am a Ph.D. Candidate in Chemistry at the **University of Florida**, specializi
   </tr>
 </table>
 
-</div>
 ---
 
 ## Selected Publications
