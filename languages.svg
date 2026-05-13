@@ -16,11 +16,11 @@
     </defs>
     
     <g clip-path="url(#bar-clip)">
-            <rect x="20" y="50" width="164.34132684704545" height="10" fill="#f34b7d"/>
-        <rect x="184.34132684704545" y="50" width="114.89533641734118" height="10" fill="#4d41b1"/>
-        <rect x="299.2366632643866" y="50" width="32.75042458241273" height="10" fill="#555555"/>
-        <rect x="331.98708784679934" y="50" width="28.789991500447638" height="10" fill="#858585"/>
-        <rect x="360.77707934724697" y="50" width="14.829785002953502" height="10" fill="#3572A5"/>
+            <rect x="20" y="50" width="164.3045308855046" height="10" fill="#f34b7d"/>
+        <rect x="184.3045308855046" y="50" width="114.86961139454169" height="10" fill="#4d41b1"/>
+        <rect x="299.1741422800463" y="50" width="32.74309177461263" height="10" fill="#555555"/>
+        <rect x="331.91723405465893" y="50" width="28.783545432131543" height="10" fill="#858585"/>
+        <rect x="360.70077948679045" y="50" width="14.90706848483699" height="10" fill="#3572A5"/>
     </g>
 
     
@@ -29,7 +29,7 @@
         <circle cx="0" cy="-4" r="4" fill="#f34b7d"/>
         <text x="10" y="0">
             <tspan class="lang-name">C++ </tspan>
-            <tspan class="lang-pct">45.7%</tspan>
+            <tspan class="lang-pct">45.6%</tspan>
         </text>
     </g>
     <g transform="translate(190, 85)">
