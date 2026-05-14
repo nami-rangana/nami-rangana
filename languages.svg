@@ -16,11 +16,11 @@
     </defs>
     
     <g clip-path="url(#bar-clip)">
-            <rect x="20" y="50" width="164.3045308855046" height="10" fill="#f34b7d"/>
-        <rect x="184.3045308855046" y="50" width="114.86961139454169" height="10" fill="#4d41b1"/>
-        <rect x="299.1741422800463" y="50" width="32.74309177461263" height="10" fill="#555555"/>
-        <rect x="331.91723405465893" y="50" width="28.783545432131543" height="10" fill="#858585"/>
-        <rect x="360.70077948679045" y="50" width="14.90706848483699" height="10" fill="#3572A5"/>
+            <rect x="20" y="50" width="164.10413103988972" height="10" fill="#f34b7d"/>
+        <rect x="184.10413103988972" y="50" width="114.72950660092924" height="10" fill="#4d41b1"/>
+        <rect x="298.83363764081895" y="50" width="32.70315550200212" height="10" fill="#555555"/>
+        <rect x="331.53679314282107" y="50" width="28.748438560581747" height="10" fill="#858585"/>
+        <rect x="360.2852317034028" y="50" width="15.327973312145815" height="10" fill="#3572A5"/>
     </g>
 
     
@@ -57,7 +57,7 @@
         <circle cx="0" cy="-4" r="4" fill="#3572A5"/>
         <text x="10" y="0">
             <tspan class="lang-name">Python </tspan>
-            <tspan class="lang-pct">4.1%</tspan>
+            <tspan class="lang-pct">4.3%</tspan>
         </text>
     </g>
 </svg>
