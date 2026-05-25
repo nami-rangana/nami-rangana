@@ -16,11 +16,11 @@
     </defs>
     
     <g clip-path="url(#bar-clip)">
-            <rect x="20" y="50" width="164.05082826720744" height="10" fill="#f34b7d"/>
-        <rect x="184.05082826720744" y="50" width="114.69224123307073" height="10" fill="#4d41b1"/>
-        <rect x="298.7430695002782" y="50" width="32.69253316816645" height="10" fill="#555555"/>
-        <rect x="331.43560266844463" y="50" width="28.73910076100378" height="10" fill="#858585"/>
-        <rect x="360.1747034294484" y="50" width="15.439926463916423" height="10" fill="#3572A5"/>
+            <rect x="20" y="50" width="163.63771159872965" height="10" fill="#f34b7d"/>
+        <rect x="183.63771159872965" y="50" width="114.40342052366668" height="10" fill="#4d41b1"/>
+        <rect x="298.04113212239633" y="50" width="32.61020605937225" height="10" fill="#555555"/>
+        <rect x="330.6513381817686" y="50" width="28.66672927902568" height="10" fill="#858585"/>
+        <rect x="359.3180674607943" y="50" width="16.307605775098153" height="10" fill="#3572A5"/>
     </g>
 
     
@@ -29,14 +29,14 @@
         <circle cx="0" cy="-4" r="4" fill="#f34b7d"/>
         <text x="10" y="0">
             <tspan class="lang-name">C++ </tspan>
-            <tspan class="lang-pct">45.6%</tspan>
+            <tspan class="lang-pct">45.5%</tspan>
         </text>
     </g>
     <g transform="translate(190, 85)">
         <circle cx="0" cy="-4" r="4" fill="#4d41b1"/>
         <text x="10" y="0">
             <tspan class="lang-name">Fortran </tspan>
-            <tspan class="lang-pct">31.9%</tspan>
+            <tspan class="lang-pct">31.8%</tspan>
         </text>
     </g>
     <g transform="translate(20, 110)">
@@ -57,7 +57,7 @@
         <circle cx="0" cy="-4" r="4" fill="#3572A5"/>
         <text x="10" y="0">
             <tspan class="lang-name">Python </tspan>
-            <tspan class="lang-pct">4.3%</tspan>
+            <tspan class="lang-pct">4.5%</tspan>
         </text>
     </g>
 </svg>
