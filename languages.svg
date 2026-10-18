@@ -16,11 +16,11 @@
     </defs>
     
     <g clip-path="url(#bar-clip)">
-            <rect x="20" y="50" width="153.370782870058" height="10" fill="#f34b7d"/>
-        <rect x="173.370782870058" y="50" width="107.22554108892486" height="10" fill="#4d41b1"/>
-        <rect x="280.59632395898285" y="50" width="37.724731643891396" height="10" fill="#3572A5"/>
-        <rect x="318.32105560287425" y="50" width="30.564182204798445" height="10" fill="#555555"/>
-        <rect x="348.8852378076727" y="50" width="26.868126356041724" height="10" fill="#858585"/>
+            <rect x="20" y="50" width="145.1505267949144" height="10" fill="#f34b7d"/>
+        <rect x="165.1505267949144" y="50" width="101.47854424211623" height="10" fill="#4d41b1"/>
+        <rect x="266.62907103703066" y="50" width="44.77008396884747" height="10" fill="#3572A5"/>
+        <rect x="311.39915500587813" y="50" width="28.926025316314306" height="10" fill="#555555"/>
+        <rect x="340.3251803221924" y="50" width="25.428067990472176" height="10" fill="#858585"/>
     </g>
 
     
@@ -29,35 +29,35 @@
         <circle cx="0" cy="-4" r="4" fill="#f34b7d"/>
         <text x="10" y="0">
             <tspan class="lang-name">C++ </tspan>
-            <tspan class="lang-pct">42.6%</tspan>
+            <tspan class="lang-pct">40.3%</tspan>
         </text>
     </g>
     <g transform="translate(190, 85)">
         <circle cx="0" cy="-4" r="4" fill="#4d41b1"/>
         <text x="10" y="0">
             <tspan class="lang-name">Fortran </tspan>
-            <tspan class="lang-pct">29.8%</tspan>
+            <tspan class="lang-pct">28.2%</tspan>
         </text>
     </g>
     <g transform="translate(20, 110)">
         <circle cx="0" cy="-4" r="4" fill="#3572A5"/>
         <text x="10" y="0">
             <tspan class="lang-name">Python </tspan>
-            <tspan class="lang-pct">10.5%</tspan>
+            <tspan class="lang-pct">12.4%</tspan>
         </text>
     </g>
     <g transform="translate(190, 110)">
         <circle cx="0" cy="-4" r="4" fill="#555555"/>
         <text x="10" y="0">
             <tspan class="lang-name">C </tspan>
-            <tspan class="lang-pct">8.5%</tspan>
+            <tspan class="lang-pct">8.0%</tspan>
         </text>
     </g>
     <g transform="translate(20, 135)">
         <circle cx="0" cy="-4" r="4" fill="#858585"/>
         <text x="10" y="0">
             <tspan class="lang-name">Cuda </tspan>
-            <tspan class="lang-pct">7.5%</tspan>
+            <tspan class="lang-pct">7.1%</tspan>
         </text>
     </g>
 </svg>
